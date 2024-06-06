@@ -1,3 +1,4 @@
+doi/10.5281/zenodo.11508488
 # PyRATES
 Marina del Rey workshop June 2024
 
